@@ -3,7 +3,8 @@
 Ecommerce Dimension Modelling using Snowflake and Lucid.app.
 
 ## DataSet Link
-![instacart all Datasets](https://www.kaggle.com/competitions/instacart-market-basket-analysis/rules)
+[Instacart Market Basket Analysis Datasets](https://www.kaggle.com/competitions/instacart-market-basket-analysis/rules)
+
 
 ## Dimension Modeling using lucid.app
 ![Ecommerce Snowflake DW Fact Dimension Diagram](https://github.com/AbhishekTheCoder00/Ecommerce-Dimension-Modelling/blob/main/ecom%20snowflake%20DW%20Fact%20Dimention%20Diagram.png)
